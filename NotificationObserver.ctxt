@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NotificationObserver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NotificationObserver\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ov
+comment1.target=NotificationObserver(IObservable)
+comment2.params=
+comment2.target=NotificationObserver()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ NotificationObserver\r\n
+comment3.params=b
+comment3.target=void\ setBattery(int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment4.params=obs\ news
+comment4.target=void\ update(IObservable,\ java.lang.Object)
+comment5.params=
+comment5.target=void\ notifyApp()
+numComments=6

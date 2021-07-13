@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IStatus
+comment0.text=\r\n\ The\ class\ IStatus\ gives\ the\ status\ of\ the\ robot\r\n\r\n\ @author\ (Muhammad\ Khan\ Lodhi)\r\n\ @version\ (17/06/2021)\r\n
+comment1.params=
+comment1.target=IStatus()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IStatus\r\n
+comment2.params=y
+comment2.target=void\ setStatus(java.lang.String)
+comment2.text=\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStatus()
+comment3.text=\r\n
+numComments=4

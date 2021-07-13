@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyHtmlFormatter
+comment1.params=rec
+comment1.target=java.lang.String\ format(java.util.logging.LogRecord)
+comment2.params=millisecs
+comment2.target=java.lang.String\ calcDate(long)
+comment3.params=h
+comment3.target=java.lang.String\ getHead(java.util.logging.Handler)
+comment4.params=h
+comment4.target=java.lang.String\ getTail(java.util.logging.Handler)
+numComments=5

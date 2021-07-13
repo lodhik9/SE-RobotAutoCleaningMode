@@ -1,0 +1,20 @@
+Jun 01, 2021 1:45:56 PM Controller doSomeThingAndLog
+SEVERE: Info Log
+Jun 01, 2021 1:45:57 PM Controller doSomeThingAndLog
+SEVERE: Info Log
+Jun 01, 2021 1:45:57 PM Controller doSomeThingAndLog
+WARNING: Info Log
+Jun 01, 2021 1:45:57 PM Controller doSomeThingAndLog
+INFO: Info Log
+Jun 01, 2021 1:47:52 PM Controller doSomeThingAndLog
+SEVERE: a
+Jun 01, 2021 1:47:52 PM Controller doSomeThingAndLog
+SEVERE: e
+Jun 01, 2021 1:47:52 PM Controller doSomeThingAndLog
+WARNING: f
+Jun 01, 2021 1:47:52 PM Controller doSomeThingAndLog
+INFO: g
+Jun 01, 2021 1:56:42 PM Controller doSomeThingAndLog
+INFO: Returned to inital position
+Jun 01, 2021 1:56:42 PM Controller doSomeThingAndLog
+SEVERE: 

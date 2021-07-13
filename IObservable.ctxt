@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IObservable
+comment1.params=o
+comment1.target=void\ addObserver(Observer)
+comment2.params=o
+comment2.target=void\ deleteObserver(Observer)
+comment3.params=
+comment3.target=boolean\ hasChanged()
+comment4.params=
+comment4.target=int\ countObservers()
+numComments=5

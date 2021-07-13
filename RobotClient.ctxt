@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RobotClient
+comment0.text=\r\n\ The\ client\ side\ class\ that\ makes\ a\ call\ to\ connect\ to\ the\ server\ side.\r\n
+comment1.params=
+comment1.target=void\ startCleaning()
+numComments=2

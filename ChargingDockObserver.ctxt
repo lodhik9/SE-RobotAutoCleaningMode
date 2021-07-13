@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ChargingDockObserver
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ChargingDockObserver\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ov
+comment1.target=ChargingDockObserver(IObservable)
+comment2.params=
+comment2.target=ChargingDockObserver()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChargingDockObserver\r\n
+comment3.params=b
+comment3.target=void\ setBattery(int)
+comment4.params=
+comment4.target=int\ getBattery()
+comment5.params=obs\ news
+comment5.target=void\ update(IObservable,\ java.lang.Object)
+comment5.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment6.params=
+comment6.target=void\ charging()
+numComments=7
